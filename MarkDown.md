@@ -18,4 +18,8 @@
 
 ---
 
+![IAs](imagen/IAs.jpg)
+
+---
+
 [Fuente](https://megaprofe.es/impacto-de-la-inteligencia-artificial-en-el-aprendizaje/?)
